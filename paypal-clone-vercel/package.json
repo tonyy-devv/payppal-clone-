@@ -1,0 +1,12 @@
+{
+  "name": "paypal-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A front-end recreation of the PayPal mobile app UI (dark theme), built as a static site with no backend.",
+  "scripts": {
+    "start": "npx --yes serve . -l 5173",
+    "dev": "npx --yes serve . -l 5173"
+  },
+  "keywords": ["paypal", "ui", "clone", "mobile", "frontend"],
+  "license": "UNLICENSED"
+}
